@@ -1,0 +1,13 @@
+.card {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #D9F2DD!important;
+}
+
+.bttUpdate {
+    background-color: orange;
+}
+
+.bttDelete {
+    background-color: red;
+}

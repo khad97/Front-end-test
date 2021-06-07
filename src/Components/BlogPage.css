@@ -1,0 +1,21 @@
+.add-space {
+    margin-bottom: 40px;
+    width: 100%;
+    height: 40px;
+}
+
+.search {
+    width: 100%!important;
+    height: 100%!important;
+}
+
+.add {
+    width: 100%;
+    height: 100%!important;
+    background-color: green;
+}
+
+.pageTitle {
+    color: green;
+    padding-bottom: 60px;
+}
